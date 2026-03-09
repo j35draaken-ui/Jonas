@@ -1,6 +1,6 @@
 # Jonas   
 -
-========
+
 **instructions**   
 
 *first*   
@@ -23,5 +23,3 @@ Run the .bat file (double click)
 *3*   
 -
 # when installing the image, do not download to the standard directory when following the installation steps, but select path to the c:/programs      
-================================================================================================================================================
-
